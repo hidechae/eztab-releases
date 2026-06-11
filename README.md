@@ -5,7 +5,7 @@ Source lives in a private repo; release binaries are published here.
 
 Get the latest installer from [**Releases**](../../releases):
 - **macOS** (Intel / Apple Silicon): `EZTab_x.y.z_universal.dmg`
-- **Windows** (x64): `EZTab_x.y.z_x64-setup.exe` (or `.msi`)
+- **Windows** (x64): `EZTab_x.y.z_x64-setup.exe`
 
 ## First launch (unsigned app)
 
